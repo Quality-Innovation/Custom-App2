@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="my_value_field" label="My value field" language="en" table="x_537923_my_custom_my_custom_app_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>my_value_field</element>
+            <help/>
+            <hint/>
+            <label>My value field</label>
+            <language>en</language>
+            <name>x_537923_my_custom_my_custom_app_table</name>
+            <plural>My value fields</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-29 06:14:06</sys_created_on>
+            <sys_id>0ee1e3d52f41301091a4c886f699b606</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>My value field</sys_name>
+            <sys_package display_value="My Custom app1" source="x_537923_my_custom">f3be9f112f41301091a4c886f699b696</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Custom app1">f3be9f112f41301091a4c886f699b696</sys_scope>
+            <sys_update_name>sys_documentation_x_537923_my_custom_my_custom_app_table_my_value_field_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-29 06:14:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>my_name_field</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-29 06:14:07</sys_created_on>
+        <sys_data_policy display_value="Sets the My name field field to mandatory">d2e1e3d52f41301091a4c886f699b625</sys_data_policy>
+        <sys_id>1ee1e3d52f41301091a4c886f699b627</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>my_name_field</sys_name>
+        <sys_package display_value="My Custom app1" source="x_537923_my_custom">f3be9f112f41301091a4c886f699b696</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Custom app1">f3be9f112f41301091a4c886f699b696</sys_scope>
+        <sys_update_name>sys_data_policy_rule_1ee1e3d52f41301091a4c886f699b627</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-29 06:14:07</sys_updated_on>
+        <table>x_537923_my_custom_my_custom_app_table</table>
+    </sys_data_policy_rule>
+</record_update>
